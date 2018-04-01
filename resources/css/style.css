@@ -29,6 +29,10 @@ a {
   color: white;
 }
 
+.footer {
+  text-align: left;
+}
+
 .copy {
   font-size: 11px;
 }
